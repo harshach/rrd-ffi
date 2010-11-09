@@ -4,3 +4,4 @@ pkg
 doc
 coverage
 .idea
+/rrd-ffi-0.2.5.gem
